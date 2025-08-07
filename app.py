@@ -9,4 +9,4 @@ def index():
 if __name__ == '__main__':
     app.run(debug=True)
 
-# Esto es un archivo del documento de Python
+# Esto es un archivo del documento en código Python
