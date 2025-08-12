@@ -6,6 +6,8 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
+# Esto es una descripción breve: retorno de información
+
 if __name__ == '__main__':
     app.run(debug=True)
 
